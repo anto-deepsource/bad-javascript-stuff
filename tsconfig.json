@@ -1,5 +1,8 @@
 {
   "extends": "@tsconfig/recommended",
+  /*
+  comment
+  */
   "compilerOptions": {
     "module": "commonjs",
     "esModuleInterop": true,
@@ -7,7 +10,8 @@
     "strict": true,
     "skipLibCheck": true
   },
+  // comment
   "include": [
-    "bad/**/*.ts"
-  ]
+    "bad/**/*.ts",
+  ],
 }
