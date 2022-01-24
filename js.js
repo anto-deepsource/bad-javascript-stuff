@@ -25,3 +25,4 @@ const very_bad_variable = ">:D";
 let non_const_and_unused = 'x' && 'y'
 let x = 1;
 let x2 = 2;
+let aaaa = 3
