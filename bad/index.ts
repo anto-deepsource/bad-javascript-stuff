@@ -1,8 +1,8 @@
 import * as prettier from 'prettier'
 
-const x: string = "xx"
+const x = "xx"
 
-const a: string = "q"
+const a = "q"
 
 const z = 1
 console.log(z + x)
