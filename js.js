@@ -25,3 +25,11 @@ const very_bad_variable = ">:D";
 let non_const_and_unused = 'x' && 'y'
 let x = 1;
 let x2 = 2;
+
+const obj = {
+  key: () => console.log("e"),
+};
+
+const obj1 = {
+  key: () => console.log("e"),
+};
