@@ -5963,8 +5963,8 @@ const obj458 = {
   key7: 'value458_7',
   key8: 'value458_8',
   key9: 'value458_9',
-  key10: 'value458_10',
-  key11: 'value458_11',
+  key10: `value458_10`,
+  key11: `value458_11`,
 };
 
 const obj459 = {
