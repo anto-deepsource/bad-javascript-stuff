@@ -75,6 +75,8 @@ class Foo {
   }
 }
 
+console.log("Hello, world!");
+
 path.join("a", "b");
 fs.readFile("xx");
 
@@ -85,6 +87,8 @@ function foo() {
   "use strict";
   return false;
 }
+
+console.log("Hello, world!");
 
 const always_false = foo();
 const very_bad_variable = ">:D";
